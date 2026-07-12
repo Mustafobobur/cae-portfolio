@@ -16,15 +16,15 @@ CAE simulation portfolio projects — FEA analysis and validation studies
 Designed a three-part mechanical assembly modeling the core motion-conversion mechanism found in combustion engines: a crankshaft, connecting rod, and piston. Built as an Assembly Design in Fusion 360 with independent components joined via revolute joints.
 
 ### Components
-
-
-
-
-<img width="1037" height="602" alt="Снимок экрана 2026-07-12 165316" src="https://github.com/user-attachments/assets/8c75fe7a-560a-4506-8383-95f306d57805" />
-- **Crankshaft**: main journal, offset crank pin, and web plate — the offset geometry converts rotational motion into the crank pin's circular sweep
+  <img width="1037" height="602" alt="Снимок экрана 2026-07-12 165316" src="https://github.com/user-attachments/assets/8c75fe7a-560a-4506-8383-95f306d57805" />
   <img width="756" height="508" alt="Снимок экрана 2026-07-12 165344" src="https://github.com/user-attachments/assets/0581372f-6c90-4513-9754-b2c5ec8623f0" />
-- **Connecting rod**: dog-bone profile with two pin holes, linking the crank pin to the piston
   <img width="787" height="612" alt="Снимок экрана 2026-07-12 165331" src="https://github.com/user-attachments/assets/2cc3c3f1-0187-428d-be1a-c1e5b02d576a" />
+
+
+
+
+- **Crankshaft**: main journal, offset crank pin, and web plate — the offset geometry converts rotational motion into the crank pin's circular sweep
+- **Connecting rod**: dog-bone profile with two pin holes, linking the crank pin to the piston
 - **Piston**: cylindrical body with a pin hole through the center
 
 ### What I Learned
