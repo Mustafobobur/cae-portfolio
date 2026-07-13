@@ -42,7 +42,7 @@ Core geometry and pin-to-pin joints are complete and correctly oriented. The bas
 
 
 
-Project 3
+
 
 Wooden Chair — Fusion 360 Model
 
