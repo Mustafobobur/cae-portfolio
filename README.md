@@ -39,6 +39,11 @@ Core geometry and pin-to-pin joints are complete and correctly oriented. The bas
 
 
 
+
+
+
+Project 3
+
 Wooden Chair — Fusion 360 Model
 
 A parametric 3D model of a classic wooden dining chair, designed in Autodesk Fusion 360. Features a slatted vertical backrest, tapered legs, and a solid seat panel.
