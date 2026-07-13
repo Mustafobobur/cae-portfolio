@@ -37,3 +37,30 @@ Designed a three-part mechanical assembly modeling the core motion-conversion me
 ### Status
 Core geometry and pin-to-pin joints are complete and correctly oriented. The base rotation constraint (crankshaft to a fixed ground reference) is the next step to get the full mechanism animating end-to-end.
 
+
+
+Wooden Chair — Fusion 360 Model
+
+A parametric 3D model of a classic wooden dining chair, designed in Autodesk Fusion 360. Features a slatted vertical backrest, tapered legs, and a solid seat panel.
+
+
+<img width="1920" height="632" alt="Wooden_chair_2026-Jul-13_04-28-29PM-000_CustomizedView11755699382" src="https://github.com/user-attachments/assets/5971c5b7-1ab8-4ada-a79c-5b05abc7f2c1" />
+<img width="1920" height="632" alt="Wooden_chair_2026-Jul-13_04-24-18PM-000_CustomizedView45224735462" src="https://github.com/user-attachments/assets/93d6f839-ef1d-42a9-98f5-0ca40e5239e7" />
+
+
+
+Design Details
+
+<img width="1918" height="1078" alt="Снимок экрана 2026-07-13 212659" src="https://github.com/user-attachments/assets/15b5a642-c530-45a4-b68d-b92e521d1409" />
+
+
+
+Style: Traditional slat-back dining chair
+Backrest: Vertical slats set into a curved top rail, two-tier construction
+Seat: Solid flat panel, slightly wider at the front than the back
+Legs: Four straight tapered legs with front and side stretchers for stability
+Material (visual): Stained wood finish, warm medium-brown tone
+Software: Autodesk Fusion 360, modeled as a single parametric part
+
+
+
