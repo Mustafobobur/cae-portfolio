@@ -69,3 +69,29 @@ Software: Autodesk Fusion 360, modeled as a single parametric part
 
 
 
+
+Lamborghini-Style Alloy Wheel — Fusion 360 Model
+
+A detailed 3D model of a multi-spoke automotive alloy wheel, designed in Autodesk Fusion 360.
+
+<img width="1920" height="632" alt="b684e9cf-02c0-4caa-b197-de21493fccc5" src="https://github.com/user-attachments/assets/53386f60-c7a4-4f57-9b26-5d5713435fcf" />
+
+
+
+This model was created for portfolio and modeling-practice purposes only. It is a fan-made piece and is not affiliated with, endorsed by, or for sale on behalf of Lamborghini or any related brand. The Lamborghini name and logo are trademarks of their respective owner. This model is not licensed for commercial use, sale, or redistribution.
+
+
+Design Details
+
+<img width="1920" height="632" alt="4b8389b7-a444-42a8-90f4-764c58d6fc9e" src="https://github.com/user-attachments/assets/da89c9ae-1d1e-4b8d-95a9-ba0d15f62d5f" />
+
+
+Style: Multi-spoke deep-dish alloy wheel
+Spoke pattern: Y-spoke / multi-branch design radiating from a central hub
+Finish (visual): Gloss black with polished lip
+Center cap: Textured badge (for display purposes only)
+Software: Autodesk Fusion 360, modeled as a parametric part
+
+
+
+
