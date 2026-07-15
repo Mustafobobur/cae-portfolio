@@ -94,4 +94,12 @@ Software: Autodesk Fusion 360, modeled as a parametric part
 
 
 
+New Model
+
+Industrial Ladder
+
+
+<img width="1920" height="631" alt="industrial_ladder" src="https://github.com/user-attachments/assets/c56ca775-3840-4be3-b32e-19981e86738d" />
+
+Made using Autodesk Fusion 360
 
